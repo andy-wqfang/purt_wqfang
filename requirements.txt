@@ -1,2 +1,3 @@
 minsnap-trajectories
 matplotlib
+pandas
