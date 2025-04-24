@@ -2,7 +2,7 @@
 - Paper: [Minimum snap trajectory generation and control for quadrotors](https://ieeexplore.ieee.org/document/5980409)
 - Library: [Minsnap-trajectories](https://pypi.org/project/minsnap-trajectories/)
 - Experiment code: `example.ipynb`
-- **TODO**: implement optimized time allocation using code in `large_scale`.
+- **TODO**: implement optimized time allocation using code in `large_scale_traj_optimizer`.
 
 # Large Scale Trajectory Optimizer
 - Paper: [Generating Large-Scale Trajectories Efficiently using Double Descriptions of Polynomials](https://ieeexplore.ieee.org/document/9561585)
